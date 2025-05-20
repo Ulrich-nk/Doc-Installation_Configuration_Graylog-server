@@ -19,12 +19,13 @@ Ce projet a pour objectif de faciliter la **compréhension des structures de gra
 - **Windows/Linux** : environnement de test
 
 
-🔐 FTP/SFTP sécurisé & Centralisation des logs – Projet Sysadmin
-🎯 Objectif du projet
-Ce projet met en œuvre une infrastructure sécurisée de transfert de fichiers (via SFTP) et de centralisation des journaux systèmes (via Rsyslog), dans le but d’optimiser la surveillance, la sécurité et la gestion des serveurs au sein d’un réseau d’entreprise.
+#🔐 FTP/SFTP sécurisé & Centralisation des logs – Projet Sysadmin
+##🎯 Objectif du projet
+Ce projet met en œuvre une infrastructure sécurisée de transfert de fichiers (via SFTP) et de centralisation des journaux systèmes (via Rsyslog), 
+dans le but d’optimiser la surveillance, la sécurité et la gestion des serveurs au sein d’un réseau d’entreprise.
 
-👨‍💻 Compétences mises en œuvre
-Configuration d’un serveur SFTP sécurisé
-Utilisation et paramétrage de FileZilla Serveur & Client
-Centralisation des logs systèmes avec Syslog/Rsyslog
-Gestion des utilisateurs, des permissions et des journaux
+##👨‍💻 Compétences mises en œuvre
+-Configuration d’un serveur SFTP sécurisé
+-Utilisation et paramétrage de FileZilla Serveur & Client
+-Centralisation des logs systèmes avec Syslog/Rsyslog
+-Gestion des utilisateurs, des permissions et des journaux
