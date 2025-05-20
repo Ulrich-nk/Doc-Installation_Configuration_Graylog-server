@@ -1,8 +1,8 @@
-# 📊 Gralog – Visualisation de graphes
+# 📊 Graylog – Visualisation de graphes
 
 ## 🎯 Objectif du projet
 
-Gralog est un logiciel interactif permettant de créer, visualiser, manipuler et analyser des graphes mathématiques.  
+Graylog est un logiciel interactif permettant de créer, visualiser, manipuler et analyser des graphes mathématiques.  
 Ce projet a pour objectif de faciliter la **compréhension des structures de graphes**, utiles en algorithmique, réseaux, intelligence artificielle, etc.
 
 ## 👨‍💻 Compétences mises en œuvre
@@ -14,6 +14,6 @@ Ce projet a pour objectif de faciliter la **compréhension des structures de gra
 
 ## 🛠️ Technologies / outils utilisés
 
-- **Gralog** : logiciel principal pour manipuler les graphes
+- **Graylog** : logiciel principal pour manipuler les graphes
 - **Java** (Gralog est une application Java)
 - **Windows/Linux** : environnement de test
